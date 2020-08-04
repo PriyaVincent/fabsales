@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: priyavincent
+Build-Jdk: 10.0.2
+Implementation-Title: payment
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/store/
+Main-Class: com.store.payment.Application
+Created-By: Maven Integration for Eclipse
+
